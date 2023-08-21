@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides instructions or the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -46,7 +47,7 @@ What implicatures is the second sentence of (38) predicted to have by the Neo-Gr
 Chierchia's Puzzle and Sauerland's account
 {{< tdclose >}}
 {{< tdopen >}}
-Prove that the Sauerland-Exhaustivity Generalization is indeed predicted by Sauerland's theory. Solution ([PDF]({{< baseurl >}}/resources/mit24_954s10_hw2_sol))
+Prove that the Sauerland-Exhaustivity Generalization is indeed predicted by Sauerland's theory. Solution ({{% resource_link 485ab8c9-c9d3-77d9-6ba7-85a5552b010c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +59,7 @@ Prove that the Sauerland-Exhaustivity Generalization is indeed predicted by Saue
 Economy and embedded exhaustification
 {{< tdclose >}}
 {{< tdopen >}}
-Sauerland's system and the exhaustivity operator ([PDF]({{< baseurl >}}/resources/mit24_954s10_hw3))
+Sauerland's system and the exhaustivity operator ({{% resource_link addd566c-716e-0b75-dd89-d2158c2e0c5f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
