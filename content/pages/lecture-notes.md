@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and a complete set
+  of lecture notes for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ LECTURE NOTES
 Pragmatics and implicatures
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_954s10_lec01))
+({{% resource_link 7e7adfc9-3f83-0d8d-021d-8cc66dcf9302 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +48,7 @@ Pragmatics and implicatures
 Hurford disjunctions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_954s10_lec02))
+({{% resource_link e267c683-f173-c96c-a1c1-04750d228e12 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +63,7 @@ Hurford disjunctions
 Chierchia's Puzzle and Sauerland's account
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_954s10_lec03))
+({{% resource_link 2a4cb9e5-f8b4-d9ae-8eca-312bf23a0561 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +78,7 @@ With Benjamin Spector. (Used with permission.)
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_954s10_lec04))
+({{% resource_link 4e4a1e96-8549-2759-3232-3eef321460e4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +93,7 @@ With Benjamin Spector. (Used with permission.)
 Back to the theory of implicatures
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_954s10_lec05))
+({{% resource_link 78927097-d514-657a-d61c-6312d152bbcd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +108,7 @@ Back to the theory of implicatures
 Presuppositions; introductory comments
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_954s10_lec06))
+({{% resource_link d820b9f1-36cd-4680-f2cc-4e9d42912d57 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +117,7 @@ Presuppositions; introductory comments
 Schlenker 2008, basics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_954s10_lec07))
+({{% resource_link ad5bbce7-75cd-113e-15e9-61244fb46a2e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +126,7 @@ Schlenker 2008, basics
 Relevance and presupposition projection
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit24_954s10_lec08))
+({{% resource_link d0f04e92-c808-7419-e32e-d8f4ab1c3858 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
